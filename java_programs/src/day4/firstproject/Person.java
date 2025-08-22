@@ -6,7 +6,7 @@ public class Person {
 	private int age;
 	private String city;
 	public Person(String name, int age, String city) {
-		System.out.println("Parameter Constructor");
+		System.out.println("Parameterized Constructor");
 		this.name = name;
 		this.age = age;
 		this.city = city;

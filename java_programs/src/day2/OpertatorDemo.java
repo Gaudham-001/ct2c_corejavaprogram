@@ -12,7 +12,7 @@ public class OpertatorDemo {
 		++a;// 11
 		int c = ++a + b + a--;//43
 		//a=>10
-		System.out.println("c value after the operations: " + c);
+		System.out.println("C value after the operations: " + c);
 
 		int d = c++ + a + b--;//73
 		//b=>19,c=>44

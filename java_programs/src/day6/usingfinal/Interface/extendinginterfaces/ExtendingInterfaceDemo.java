@@ -7,7 +7,7 @@ public class ExtendingInterfaceDemo implements ChildInterface{
 	}
 	
 	public void show() {
-		System.out.println("show mwthiod");
+		System.out.println("show method");
 	}
 
 }

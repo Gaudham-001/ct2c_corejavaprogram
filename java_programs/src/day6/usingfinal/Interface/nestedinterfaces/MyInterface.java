@@ -4,7 +4,7 @@ public interface MyInterface {
 	
 	void calculateArea(){
 		interface MyInnerInterface {
-		       int  id = 20;
+		       int  id = 67;
 		       void print();
 		
 	}

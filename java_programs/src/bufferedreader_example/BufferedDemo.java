@@ -7,7 +7,7 @@ public class BufferedDemo {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
-		System.out.println("Enterb the name: ");
+		System.out.println("Enter the name: ");
 		String name=br.readLine();
 		System.out.println("Enter the age: ");
 		int age=Integer.parseInt(br.readLine());

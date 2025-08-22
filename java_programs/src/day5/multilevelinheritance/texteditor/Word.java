@@ -10,10 +10,10 @@ public class Word extends Wordpad {
 
     public void spellCheck() {
         if (spellCheckEnabled) {
-            System.out.println("Running spell check...");
+            System.out.println("Running spell check....");
             // Simulate spell check logic here
         } else {
-            System.out.println("Spell check is disabled.");
+            System.out.println("Spell check is disabled...");
         }
     }
 

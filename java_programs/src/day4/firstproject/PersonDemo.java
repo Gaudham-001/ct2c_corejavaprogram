@@ -9,7 +9,7 @@ public class PersonDemo {
 		Scanner sc=new Scanner(System.in);
 		String name,city;
 		int age;
-		System.out.println("enter the person detials: ");
+		System.out.println("enter the person detials : ");
 		name=sc.nextLine();
 		city=sc.nextLine();
 		age=sc.nextInt();

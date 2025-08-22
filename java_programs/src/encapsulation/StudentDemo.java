@@ -16,7 +16,7 @@ public class StudentDemo {
 		
 		Student s1=new Student();
 		s1.setSid(7);
-		s1.setSname("Dhoni");
+		s1.setSname("Thala..");
 		s1.setAvg(100.0f);
 		
 		System.out.println(s1);

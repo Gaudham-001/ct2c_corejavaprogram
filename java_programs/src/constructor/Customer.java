@@ -7,7 +7,7 @@ public class Customer {
 	 
 	// Default Constructor
 	public Customer() {
-		System.out.println("Default Constructor");
+		System.out.println("Default Constructor is Invoked");
 	}
 	
 	//Parameterized Constructor

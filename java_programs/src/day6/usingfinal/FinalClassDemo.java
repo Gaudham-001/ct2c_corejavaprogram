@@ -3,7 +3,7 @@ package day6.usingfinal;
 public class FinalClassDemo {
 	final class FinalClass {
 		void show() {
-			System.out.println("Final class cannot be inherited");
+			System.out.println("Final class cannot be inherited...");
 		}
 	}
 

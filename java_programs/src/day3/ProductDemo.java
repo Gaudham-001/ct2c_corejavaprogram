@@ -5,7 +5,7 @@ public class ProductDemo {
 
 	public static void main(String[] args) {
 		Product p1=new Product();
-		Product p2=new Product(102,"mouse",456.6f);
+		Product p2=new Product(102,"Mouse",456.6f);
 		
 		
 		Scanner s=new Scanner(System.in);

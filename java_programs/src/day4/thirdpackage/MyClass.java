@@ -15,7 +15,7 @@ public class MyClass {
 	}
 	
 	private MyClass() {
-		System.out.println("MyClass object created");		
+		System.out.println("MyClass object is  created");		
 	}
 	
 	public static MyClass getObject() //factory method

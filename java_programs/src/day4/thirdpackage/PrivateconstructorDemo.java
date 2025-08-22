@@ -6,7 +6,7 @@ public class PrivateconstructorDemo {
 		// MyClass m1=new MyClass();
 		
 		MyClass m=MyClass.getObject();
-		m.setId(10);
+		m.setId(80);
 		
 		MyClass m1=MyClass.getObject();
 		

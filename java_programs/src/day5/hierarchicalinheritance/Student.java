@@ -4,7 +4,7 @@ public class Student extends Person{
 	private String clas;
 	private float per;
 	public Student() {
-		System.out.println("Student class default constructor");
+		System.out.println("Student class is  default constructor");
 		clas="FY";
 		per=70;
 	}

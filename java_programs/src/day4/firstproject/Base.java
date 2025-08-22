@@ -9,12 +9,12 @@ public class Base {
 	
 	void methodDefault() {
 		System.out.println("Default access the value");
-		System.out.println("value of Default: "+varDefault);
+		System.out.println("value of Default:  "+varDefault);
 	}
 	
 	public void methodPublic() {
 		System.out.println("Public access the value");
-		System.out.println("value of Public: "+varPublic);
+		System.out.println("value of Public:  "+varPublic);
 	}
 	private void methodPrivate() {
 		System.out.println("Private access the value");

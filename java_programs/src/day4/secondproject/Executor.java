@@ -14,7 +14,7 @@ public class Executor {
 		 */
 
 		b1.methodPublic();
-		b1.varPublic = 41;
+		b1.varPublic = 61;
 		b1.methodPublic();
 	}
 

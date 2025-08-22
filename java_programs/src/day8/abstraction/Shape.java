@@ -7,7 +7,7 @@ public abstract class Shape {
 	abstract void calArea();
 	
 	void show() {
-		System.out.println("Area of shape is "+area);
+		System.out.println("Area of shape is : "+area);
 	}
 	
 

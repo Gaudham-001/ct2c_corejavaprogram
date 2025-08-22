@@ -7,7 +7,7 @@ public class BankApplication {
 		Bank bank = new BankImpl();
 
 	     // Create an Account
-	     Account account = new Account(123456, "Mihir", 155000, bank);
+	     Account account = new Account(123456, "Mihir", 18800, bank);
 
 	     // Deposit money
 	     account.deposit(2000);

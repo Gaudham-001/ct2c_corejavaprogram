@@ -7,7 +7,7 @@ public class Employee extends Person {
 	
 	
 	public Employee() {
-		System.out.println("Employee Class Default Constructor");
+		System.out.println("Employee Class's Default Constructor");
 	}
 
 

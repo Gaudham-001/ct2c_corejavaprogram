@@ -17,7 +17,7 @@ public class add {
 
         
         
-        System.out.println("Sum is: " + c);
+        System.out.println("Sum is : " + c);
 
 
 	}

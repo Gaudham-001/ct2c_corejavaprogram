@@ -8,7 +8,7 @@ public class FunctionalInterfaceDemo {
 		System.out.println(g.greet());
 		
 		GreetInterface g1=()->{
-			return "Good Afternoon";
+			return "Good Afternoon...";
 		};
 		
 		System.out.println(g1.greet());

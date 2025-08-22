@@ -5,7 +5,7 @@ public class Person {
 	private String city;
 
 	public Person() {
-		System.out.println("Person class default constructor");
+		System.out.println("Person class default is  constructor");
 		name="Amit";
 		city="Pune";
 	}

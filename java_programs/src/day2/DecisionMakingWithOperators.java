@@ -9,9 +9,9 @@ public class DecisionMakingWithOperators {
 		int b = 11;
 
 		if (x >= y) {
-			System.out.println("true");
+			System.out.println("True");
 		} else {
-			System.out.println("false");
+			System.out.println("False");
 		}
 
 		if (!(a < b) || (a == b)) {

@@ -8,7 +8,7 @@ public static void main(String args[])
 	Scanner sc=new Scanner(System.in);
 	String name, city;
 	int id;
-	System.out.print("Enter Customer Id : ");
+	System.out.print("Enter Customer Id: ");
 	id=sc.nextInt();
 	
 	sc.nextLine();

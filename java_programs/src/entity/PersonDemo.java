@@ -8,7 +8,7 @@ public class PersonDemo {
         // scanner object to accept user inputs
         Scanner ob = new Scanner(System.in);
 
-        System.out.print("Enter Person Name : ");
+        System.out.print("Enter Person Name :");
         String name = ob.next();
 
         System.out.print("Enter age: ");

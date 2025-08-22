@@ -9,7 +9,7 @@ public class Citizen {
 	
 
 	public Citizen() {
-		System.out.println("Citizen object created");
+		System.out.println("Citizen object created...");
 	}
 
 	public Citizen(String name, String aadharNo, String address, long phno) {
